@@ -1,4 +1,5 @@
-![Capture](https://user-images.githubusercontent.com/51701132/133169492-ba703c66-be59-43ed-8a77-7a3e68fff894.PNG)
+![Capture](https://user-images.githubusercontent.com/51701132/133169784-bfeedbdf-fd8f-4f01-ba62-1adac47f2d29.PNG)
+
 # Education
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
