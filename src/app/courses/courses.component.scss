@@ -1,0 +1,78 @@
+.course {
+  background-image: linear-gradient(
+    to right,
+    #f78ca0 0%,
+    #f9748f 19%,
+    #fd868c 60%,
+    #fe9a8b 100%
+  );
+  height: 200vh;
+  padding: 150px 100px;
+  animation: hue-shift 2s infinite alternate;
+}
+
+.text-center {
+  color: #ffeaa7;
+}
+
+.course {
+  background-image: url("https://i.ibb.co/k5Px1VM/freeimg-12673169048freejpg850.jpg");
+  z-index: 10;
+  height: 120vh;
+  background-size: cover;
+  background-position: center;
+  opacity: 1;
+  animation: hue-shift 2s infinite alternate;
+}
+.box {
+  background-color: #ffffff;
+  padding: 10px 20px;
+}
+
+.btn {
+  border-radius: 100px;
+  padding: 10px 20px;
+  background-color: rgba(6, 203, 230, 0.322);
+  border: none;
+}
+.btn:hover {
+  border-radius: 100px;
+  padding: 10px 20px;
+  background-color: rgba(61, 28, 207, 0.705);
+  border: none;
+}
+@media screen and (max-width: 600px) {
+  .course {
+    background-color: #eff6ff;
+    padding: 50px 10px;
+  }
+}
+
+@keyframes move-up {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(2rem);
+  }
+}
+@keyframes move-down {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-2rem);
+  }
+}
+@keyframes hue-shift {
+  from {
+    filter: hue-rotate(0);
+  }
+  to {
+    filter: hue-rotate(50deg);
+  }
+}
+
+body {
+  animation: hue-shift 2s infinite alternate;
+}
