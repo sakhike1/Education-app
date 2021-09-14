@@ -1,4 +1,5 @@
-![Capture](https://user-images.githubusercontent.com/51701132/133207145-61380245-482a-4c58-a60f-6acae4357b61.PNG)
+![Capture](https://user-images.githubusercontent.com/51701132/133207301-c5be364a-1180-4e15-894d-f0bfaed9e0f3.PNG)
+
 
 
 # Education
